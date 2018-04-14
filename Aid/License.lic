@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+  <Data>
+    <LicensedTo>Beijing intelliec</LicensedTo>
+    <LicenseType>Developer Enterprise Subscription</LicenseType>
+    <LicenseNote>Limited to 1 developer.</LicenseNote>
+    <OrderID>110330215801</OrderID>
+    <OEM>This is not a non-redistributable license</OEM>
+    <Products>
+      <Product>Aspose.Cells for .NET</Product>
+    </Products>
+    <EditionType>Enterprise</EditionType>
+    <SerialNumber>cf26d7e2-e49d-4462-b935-86524714c0c5</SerialNumber>
+    <SubscriptionExpiry>20120406</SubscriptionExpiry>
+    <LicenseVersion>2.2</LicenseVersion>
+  </Data>
+  <Signature>TZ1B+Q1Hmq7Kcy8nT4Ytus83ynkyyjny+zTlDmk8+fp5dyIPH5qbyYDLp9qZ9u3PpyVKaewrQKvZbSGB9GvnKhmK+YnqkMO3JZQDbWLmaWVMWV8zGXspMGH2DhkQLoa+ieG48nYwC6G4MMvUFUXuXEsnDAGkFGUn2d0xGwq5ZXk=</Signature>
+</License>

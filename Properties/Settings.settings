@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApplication2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Download" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2017年12月1日</Value>
+    </Setting>
+    <Setting Name="Incline" Type="System.String" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="Mining_Height" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6.3</Value>
+    </Setting>
+    <Setting Name="Spacetime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2201工作面与2101工作面直线相距356米，错距64.6米</Value>
+    </Setting>
+    <Setting Name="Subsidence_date" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2018年4月13日</Value>
+    </Setting>
+    <Setting Name="Subsidence_max" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Subsidence_avg" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Subsidence_site" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
